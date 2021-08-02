@@ -1,0 +1,41 @@
+ 
+   @charset "ISO-8859-1";
+    input{
+   margin: 1%;
+   
+  }
+  .main{
+   width: 800px;
+   height: 395px;
+   background-color: orange;
+   padding-top: 0.5%;
+   margin-left: 3%
+  }
+  h4{
+   padding-top: 5%;
+  margin-left: 2%;
+  margin-bottom:4%;
+   text-align: left;
+    width: 90%;
+    color:white;
+  }
+  .container{
+    margin-top: 2%;
+    margin-left:25%;
+    width: 49%;
+    height: auto;
+    box-shadow: 2px 2px 9px grey;
+    background-color: #ff0000;
+  }
+  form{
+  padding-top:3%;
+   padding-left: 4%;
+   background-color: white;
+  }
+  input[type=submit]{
+   margin-top: 3%;
+   margin-left: 29%;
+   padding: 1%;
+   background-color: #ff0000;
+   color: white;
+  }
