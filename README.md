@@ -18,3 +18,7 @@ Profile management
 -> You can edit your profile easily 
 
 -> You can change the password if needed
+
+                                                        Index page
+      
+  ![index page](https://github.com/AdilWadhwania/Complain-management/blob/main/Foodie/images/Screenshot%20(368).png)     
