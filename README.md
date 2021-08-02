@@ -26,11 +26,15 @@ Profile management
   
                                                         Welcome page
   ![welcome page](https://github.com/AdilWadhwania/Complain-management/blob/main/Foodie/images/Screenshot%20(369).png) 
-                                                        complain section
-  ![complain section](https://github.com/AdilWadhwania/Complain-management/blob/main/Foodie/images/Screenshot%20(370).png)                                                      
+  
+                                                       complain section
+  ![complain section](https://github.com/AdilWadhwania/Complain-management/blob/main/Foodie/images/Screenshot%20(370).png)           
+  
                                                         Raise a complain
-  ![Raise a complain](https://github.com/AdilWadhwania/Complain-management/blob/main/Foodie/images/Screenshot%20(371).png)                                                      
+  ![Raise a complain](https://github.com/AdilWadhwania/Complain-management/blob/main/Foodie/images/Screenshot%20(371).png)      
+  
                                                         profile section
   ![profile section](https://github.com/AdilWadhwania/Complain-management/blob/main/Foodie/images/Screenshot%20(372).png)      
+  
                                                         edit profile
   ![edit profile](https://github.com/AdilWadhwania/Complain-management/blob/main/Foodie/images/Screenshot%20(373).png)
